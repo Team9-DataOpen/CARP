@@ -2,7 +2,7 @@ import cvxpy as cp
 import numpy as np 
 import pandas as pd 
 
-class MARPR:
+class CARP:
     """
     Python implementation of the CARP model, proposed as part of the paper produced by 
     Team 9 for the DataOpen Championship
